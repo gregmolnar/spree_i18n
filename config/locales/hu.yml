@@ -1102,8 +1102,8 @@ hu:
   store: #Store
   street_address: Cím
   street_address_2: "Cím 2"
-  subtotal: #Subtotal
-  subtract: #Subtract
+  subtotal: "Részösszeg:"
+  subtract: Mínusz
   successfully_created: #"%{resource} has been successfully created!"
   successfully_removed: #"%{resource} has been successfully removed!"
   successfully_updated: #"%{resource} has been successfully updated!"
@@ -1181,9 +1181,9 @@ hu:
     must_be_int: #"must be an integer"
     must_be_non_negative: #"must be a non-negative value"
   value: #Value
-  variant: #Variant
-  variants: #Variants
-  vat: #"VAT"
+  variant: Típus
+  variants: Típusok
+  vat: ÁFA
   version: #Version
   view_shipping_options: #"View shipping options"
   void: #Void
