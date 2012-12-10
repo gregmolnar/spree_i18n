@@ -215,7 +215,7 @@ hu:
       spree/zone: 
         one: Zóna
         other: Zónák
-  add: Hozzáad
+  add: plusz
   add_action_of_type: #Add action of type
   add_category: #"Add Category"
   add_country: #"Add Country"
