@@ -667,7 +667,7 @@ hu:
       instructions: #"Your order has been CANCELED.  Please retain this cancellation information for your records."
       order_summary_canceled: #"Order Summary [CANCELED]"
       subject: #"Cancellation of Order"
-      subtotal: "Részösszeg:"
+      subtotal: "Részösszeg"
       total: "Rendelés végösszege:"
     confirm_email: 
       dear_customer: #"Dear Customer,"
@@ -891,7 +891,7 @@ hu:
         sentence: #with property <em>%s</em> and value <em>%s</em>
   products: "Termékek"
   products_with_zero_inventory_display: #"Products with a zero inventory will %{not} be displayed"
-  promotion: #Promotion
+  promotion: Kedvezmény
   promotion_action: #Promotion Action
   promotion_action_types: 
     create_adjustment: 
